@@ -1344,6 +1344,16 @@ body {
     transform: scale(0);
   }
 }
+
+#content1 {
+  align-items: center !important;
+  
+  justify-content: center !important; /* Centra horizontalmente */
+  align-items: center !important; /* Centra verticalmente */
+  height: 70vh !important; /
+}
+
+
 .container * {
   -webkit-animation-play-state: paused !important;
           animation-play-state: paused !important;
