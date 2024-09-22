@@ -39,8 +39,12 @@ body.content1 {
     animation-delay: .6s;
 }
 .greetings > span:nth-child(5){
-    animation-delay: .8s;
+    animation-delay: .75s;
 }
+.greetings > span:nth-child(6){
+    animation-delay: .9s;
+}
+
 
 .description{
     font-size: 1.5rem;
@@ -96,5 +100,3 @@ body.content1 {
     background-color: orange; /* Cambia el color de fondo al pasar el mouse a naranja */
     box-shadow: 0 0 10px yellow, 0 0 20px yellow, 0 0 30px yellow; /* Efecto de resplandor amarillo */
   }
-  
-  
